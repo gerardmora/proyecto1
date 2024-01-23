@@ -1,1 +1,1 @@
-print("login mamalon ")
+print("login mamalon")
